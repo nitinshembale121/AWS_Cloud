@@ -8,6 +8,7 @@ __Fundamentals of AWS__
 - History
 - Benefits
 - Types of Cloud Computing
+- different types of Cloud
 - Benefits of AWS Security
 
 **NOTES** <br />
@@ -30,3 +31,9 @@ In 2006 Amazon web service is offering IT infrastructure service to business of 
  Automatic Software Updates <br />
  Competitive Edge <br />
  Sustainability <br />
+
+4) Different Types of Cloud Computing <br />
+ 
+ Iaas-Infrastructure as a service 
+ Paas-Platform as a service 
+ Saas-Software as a service 
