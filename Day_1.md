@@ -34,6 +34,10 @@ In 2006 Amazon web service is offering IT infrastructure service to business of 
 
 4) Different Types of Cloud Computing <br />
  
- Iaas-Infrastructure as a service 
- Paas-Platform as a service 
- Saas-Software as a service 
+ Iaas-Infrastructure as a service <br />
+ Paas-Platform as a service <br />
+ Saas-Software as a service <br />
+
+1) IAAS - This service provides access to networking features, computer(visual or dedicated hardware) and data storage spaces.This service is useful of IT perposes.
+2) PAAS - Cloud platform services, also known as Platform as a Service (PaaS), provide cloud components to certain software while being used mainly for applications.
+3) SAAS - Software as a Service, also known as cloud application services, represents the most commonly utilized option for businesses in the cloud market. SaaS utilizes the internet to deliver applications, which are managed by a third-party vendor, to its users. A majority of SaaS applications run directly through your web browser, which means they do not require any downloads or installations on the client side 
