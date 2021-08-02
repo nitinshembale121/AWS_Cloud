@@ -4,15 +4,7 @@ Nitin Shembale
 
 __Fundamentals of AWS__
 
-Definations
-
-History
-
-Benifits
-Types of Cloud Computing
-Benefits of AWS Security
-
-Defination
+- Defination
 - History
 - Benefits
 - Types of Cloud Computing
