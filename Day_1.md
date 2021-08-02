@@ -14,7 +14,7 @@ __Fundamentals of AWS__
 1) What is Cloud Computing? <br />
 Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user. <br />
 
-2)History <br />
+2) History <br />
 In 2006 Amazon web service is offering IT infrastructure service to business of cloud computing as a web service. 
 
-3)Benifits
+3) Benifits
