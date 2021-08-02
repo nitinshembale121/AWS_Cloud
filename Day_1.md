@@ -12,3 +12,8 @@ Benifits
 Types of Cloud Computing
 Benefits of AWS Security
 
+Defination
+- History
+- Benefits
+- Types of Cloud Computing
+- Benefits of AWS Security
