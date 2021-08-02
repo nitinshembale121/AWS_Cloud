@@ -11,4 +11,5 @@ __Fundamentals of AWS__
 - Benefits of AWS Security
 
 **NOTES** <br />
-What is Cloud Computing?
+What is Cloud Computing? <br />
+Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user.
