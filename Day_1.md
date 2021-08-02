@@ -10,5 +10,5 @@ __Fundamentals of AWS__
 - Types of Cloud Computing
 - Benefits of AWS Security
 
-**NOTES** __
+**NOTES** <br />
 What is Cloud Computing?
